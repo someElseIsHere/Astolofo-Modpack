@@ -171,17 +171,13 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "8cd6e0ba62f3f5962a824170bbf52fd502cbfec5b861fb24757e8283dd351fd1"
+hash = "af862af6ef5f6c3ff80eac2a3e7cff8d914142e2be22be1f05cb1ad36b91949f"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "deff9107e8fab365e56e2070ae8ccded315b436174e1e2c3467d668fefd37053"
 metafile = true
-
-[[files]]
-file = "mods/createbigcannons-forge-1.18.2-0.5.3-nightly-1280034.jar"
-hash = "f6d4f624badf5041e649d26808a94c269378e3bb614359abc2f78d426719122b"
 
 [[files]]
 file = "mods/curios.pw.toml"
