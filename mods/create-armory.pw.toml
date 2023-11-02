@@ -1,0 +1,13 @@
+name = "Create: Armory"
+filename = "createarmoryv0.6BP.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MIxwm5GN/versions/GZEm29Ci/createarmoryv0.6BP.jar"
+hash-format = "sha1"
+hash = "93b8f888a597ab38104239f12a64843b2c274950"
+
+[update]
+[update.modrinth]
+mod-id = "MIxwm5GN"
+version = "GZEm29Ci"

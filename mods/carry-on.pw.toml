@@ -1,0 +1,13 @@
+name = "Carry On"
+filename = "carryon-1.18.2-1.17.1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/joEfVgkn/versions/epf47Jaz/carryon-1.18.2-1.17.1.12.jar"
+hash-format = "sha1"
+hash = "3873b6f842c36af75bc29d448f65df9a03c1a9da"
+
+[update]
+[update.modrinth]
+mod-id = "joEfVgkn"
+version = "epf47Jaz"

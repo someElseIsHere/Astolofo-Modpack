@@ -1,0 +1,13 @@
+name = "WebDisplays"
+filename = "webdisplays-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afdfe7ce023a3ea7de60d5d6bc55b04b9cb8ad09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3914268
+project-id = 654478

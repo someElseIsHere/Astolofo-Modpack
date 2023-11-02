@@ -1,0 +1,13 @@
+name = "Excavation"
+filename = "excavation-1.18-1.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ed13b38c0877328969bb0c099cc461df6bb74bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3696916
+project-id = 399747

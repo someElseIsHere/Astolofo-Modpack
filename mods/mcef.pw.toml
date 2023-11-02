@@ -1,0 +1,13 @@
+name = "MCEF (Minecraft Chromium Embedded Framework)"
+filename = "mcef-1.18.2-2.0.1-7.1.2022-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9db98339c30d2d5f75cfcfd5ecab5d620975915a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855632
+project-id = 636236
