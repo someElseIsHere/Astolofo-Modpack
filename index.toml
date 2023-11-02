@@ -155,11 +155,6 @@ hash = "f12ab3f6cbda1b001dea26370c7609f76828ead51d6cebd9865a6db2b9f3ae2a"
 metafile = true
 
 [[files]]
-file = "mods/create-industry.pw.toml"
-hash = "b1233c6fc3c0cb71350915de3ffa66a985f1cff510cf73ed3c6fc08d20f804bf"
-metafile = true
-
-[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "6e85c8c77bbf92ac09003473bb327029aadc7063dd480849cd33f6c45eed0043"
 metafile = true
