@@ -365,6 +365,11 @@ hash = "4e032a14515acb8fa38a0b93050854b81820178673b086efbb2204386881a3fd"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "2fe5c063db5622e0e0a56f739230471de2dd26e08ec80d74fb9c5b2afbe67dc3"
+metafile = true
+
+[[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "7fcce54d0244c56482e5a116f248d119952b638382e941c2932a67737b05c7d2"
 metafile = true
